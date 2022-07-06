@@ -8,7 +8,7 @@
 | Deliverable 2 | Open Source Code | We will provide the source code of project framework and basic funcitons such as insert,query,delete and update. |  
  
 
-### Milestone 2— Advanced features of database，contains ACL,OGM and subgraph
+### Milestone 2 — Advanced features of database，contains ACL,OGM and subgraph
 
 - **Estimated duration:** 3 month
 
