@@ -4,9 +4,9 @@
 
 `Relation Graph` is a substrate pallet that allows anyone to use GraphDB in [Substrate platform](https://substrate.io/).
 `Relation Graph` provides organizations with ready-to-use GraphDB service for successfully running Dapps on the Substrate.  using `Relation Graph` Dapps builders can focus on bussiness logic by removing the complexities of Substrate.
-1、one click deploy on substrate;
-2、Mask complex all on-chain operations with sparql;
-3、sparql as blockchain.
+- one click deploy on substrate
+- Mask complex all on-chain operations with sparql;
+- sparql as blockchain.
 
 It supports the following specifications:
 * [SPARQL 1.1 Query](https://www.w3.org/TR/sparql11-query/), [SPARQL 1.1 Update](https://www.w3.org/TR/sparql11-update/), and [SPARQL 1.1 Federated Query](https://www.w3.org/TR/sparql11-federated-query/).
