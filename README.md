@@ -28,3 +28,5 @@ It supports the following specifications:
 * Milestone 1 — Relation Graph basic functions, contains insert, query, delete and update
 * Milestone 2 — Advanced features of database, contains ACL, OGM and subgraph
 * Milestone 3 — Finish use case, scaffold and demo for Relation Graph
+
+[for more details>>>](https://github.com/relationlabs/Relation-Graph-Substrate/blob/main/doc/Milestone%20Definiton.md)
