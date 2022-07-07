@@ -43,7 +43,6 @@ mod io;
 mod model;
 mod sparql;
 mod store;
-mod ogm;
 
 type IoError = std::io::Error;
 
